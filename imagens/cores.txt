@@ -1,0 +1,3 @@
+azul escuro: #2966ab
+azul claro: #2694cf
+cinza: #484D50
